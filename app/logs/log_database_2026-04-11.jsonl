@@ -1,0 +1,3 @@
+{"timestamp":"2026-04-11 14:54:58","level":"DATABASE","action":"CREATE","table":"tb_usuario","record_id":null,"user_id":2,"user_name":"Luis Tecnico","ip":"::1","details":{"accion_detalle":"LOGIN","detalle":"Inicio de sesión exitoso"}}
+{"timestamp":"2026-04-11 15:14:03","level":"DATABASE","action":"CREATE","table":"tb_tickets","record_id":"4","user_id":2,"user_name":null,"ip":"::1","details":{"accion_detalle":"CREAR TICKET","detalle":"Ticket #4 — a"}}
+{"timestamp":"2026-04-11 18:27:32","level":"DATABASE","action":"CREATE","table":"tb_tickets","record_id":"5","user_id":2,"user_name":null,"ip":"::1","details":{"accion_detalle":"CREAR TICKET","detalle":"Ticket #5 — a"}}
