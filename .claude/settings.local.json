@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s --max-time 10 \"https://geocodes.enriquecastl.me/cp/64000\")",
+      "Bash(curl -s --max-time 10 \"https://api-sepomex.hckdrk.mx/query/info_cp/64000?type=JSON\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
+    ]
+  }
+}
